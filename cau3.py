@@ -25,4 +25,4 @@ def two_num_hashmap(arr, target):
 #   Thời gian: 1 vòng lặp -> O(n)
 #   Không gian: dùng 1 map -> O(n)
 
-print(hashmap(arr,target))
+print(two_num_hashmap(arr,target))
